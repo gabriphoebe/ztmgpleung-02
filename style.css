@@ -1,0 +1,68 @@
+.brand .n-logo {
+  max-width: 100px;
+  margin-bottom: 20px;
+  filter: grayscale(50%);
+}
+
+.page-header-image{
+	
+	opacity: 0.6;
+
+}
+
+.brand .h1-seo{
+
+	text-shadow: 2px 2px #666666;
+	font-weight: 500;
+
+}
+
+.h3-subheader{
+	/*text-shadow: 2px 2px #666666;*/
+	color: #111111;
+
+}
+
+.title{
+	font-weight: 400;
+	font-size: 1.5em;
+}
+
+.navbar{
+	background-color: #0D2D2A!important;
+}
+
+.brand-logo{
+	width: 25%;
+	height: auto;
+}
+
+.btn-primary{
+
+	background-color: #236A62;
+}
+
+.btn-primary:hover{
+
+	background-color: #42847D;
+	
+}
+
+
+.btn-primary:focus{
+
+	background-color:#678D89;
+}
+
+.btn-primary:active{
+
+	background-color: #44736E!important;
+}
+
+.sidebar-collapse .navbar-collapse::before{
+	background-color:#41958C;
+	background: linear-gradient( #41958C, #251434 80%);
+	opacity: 0.9;
+
+}
+
